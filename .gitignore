@@ -1,0 +1,8 @@
+/target
+*.pdb
+
+# OS/editor cruft
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
